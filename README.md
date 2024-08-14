@@ -1,2 +1,2 @@
 # DFINet
-We are preparing to release our code of DFINet.
+We are preparing to release the code for DFINet.
